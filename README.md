@@ -2,6 +2,10 @@
 This repository contains software and CAD files for the 2023 version of
 the Middlesex University robot platform used for CS and outreach.
 
+![Mirto 2023](https://github.com/michaelmargolis/Mirto2023/blob/main/Mirto2023.jpg)
+
+![Build documentation](https://github.com/michaelmargolis/Mirto2023/blob/main/docs/Mirto%202023%20Build.pdf)
+
 This version supports the following variants:
 * CS Mirto using Teensy 3.2 board and Raspberry Pi 
   * Teensy drives robot hardware
@@ -28,7 +32,6 @@ This version supports the following variants:
 
 See the ASIP 1.2 repository for code needed for the CS version 
 
-![Mirto 2023](https://github.com/michaelmargolis/Mirto2023/blob/main/Mirto2023.jpg)
 
 A research paper providing context for use of this robot at Middlesex University can be found here https://eprints.mdx.ac.uk/24368/
 
