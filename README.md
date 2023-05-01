@@ -28,7 +28,7 @@ This version supports the following variants:
 
 See the ASIP 1.2 repository for code needed for the CS version 
 
-![Mirto 2023](https://github.com/michaelmargolis/mirto2023/blob/master/mirto2023.jpg)
+![Mirto 2023](https://github.com/michaelmargolis/Mirto2023/blob/main/Mirto2023.jpg)
 
 A research paper providing context for use of this robot at Middlesex University can be found here https://eprints.mdx.ac.uk/24368/
 
